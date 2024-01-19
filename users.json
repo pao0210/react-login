@@ -1,0 +1,10 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"usersdb"},
+{"type":"table","name":"users","database":"usersdb","data":
+[
+{"email":"james@gmail.com","password":"$2b$10$F9h4gPRpAPJ6QdJXYp8LZO04dLhLKeNek3l9J6QJuZvGAAqMdWN3O","name":"james","surname":"born","clogin":"2"},
+{"email":"johndoe@hotmail.com","password":"$2b$10$9NkdYyxbbsiTY7TJX1Fni.vQk7ar6hadDZSuXf7C9jNtQ5y5JNO3m","name":"John","surname":"Doe","clogin":"1"}
+]
+}
+]
